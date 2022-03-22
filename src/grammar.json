@@ -6663,6 +6663,7 @@
       "_solidity"
     ]
   ],
+  "precedences": [],
   "externals": [],
   "inline": [],
   "supertypes": []
