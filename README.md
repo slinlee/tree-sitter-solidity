@@ -1,5 +1,5 @@
 ## 🌴 tree-sitter-solidity 
-![badge](https://action-badges.now.sh/JoranHonig/tree-sitter-solidity)
+[![Node.js CI](https://github.com/JoranHonig/tree-sitter-solidity/actions/workflows/node.js.yml/badge.svg)](https://github.com/JoranHonig/tree-sitter-solidity/actions/workflows/node.js.yml)
 [![npm version](https://badge.fury.io/js/tree-sitter-solidity.svg)](https://badge.fury.io/js/tree-sitter-solidity)
 
 > 💁This fork was created to support [Helix Editor](https://github.com/helix-editor/helix). The only difference is that the `src/` directory and generated files are committed to the repo. ( [#1853](https://github.com/helix-editor/helix/issues/1853) https://github.com/slinlee/tree-sitter-solidity/pull/1)
