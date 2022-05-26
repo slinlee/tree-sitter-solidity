@@ -2,7 +2,7 @@
 [![Node.js CI](https://github.com/JoranHonig/tree-sitter-solidity/actions/workflows/node.js.yml/badge.svg)](https://github.com/JoranHonig/tree-sitter-solidity/actions/workflows/node.js.yml)
 [![npm version](https://badge.fury.io/js/tree-sitter-solidity.svg)](https://badge.fury.io/js/tree-sitter-solidity)
 
-> 💁This fork was created to support [Helix Editor](https://github.com/helix-editor/helix). The only difference is that the `src/` directory and generated files are committed to the repo. ( [#1853](https://github.com/helix-editor/helix/issues/1853) https://github.com/slinlee/tree-sitter-solidity/pull/1)
+> 💁This fork is now deprecated now that https://github.com/JoranHonig/tree-sitter-solidity/commit/de75edf085e6bcda736a765922884e85f4201cc1 is committed. It was originally created to support [Helix Editor](https://github.com/helix-editor/helix). The only difference is that the `src/` directory and generated files are committed to the repo. ( [#1853](https://github.com/helix-editor/helix/issues/1853) https://github.com/slinlee/tree-sitter-solidity/pull/1)
 
 > 💡 this grammar is still in development, the structure of the generated AST is not stable
 
